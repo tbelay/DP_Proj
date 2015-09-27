@@ -1,0 +1,12 @@
+---
+title: "My Shiny application Documentation"
+output: html_document
+Author: Tesfaye B
+Date: September 27, 2015
+---
+
+My shiny application has three tabs where the first requestes users to provide weight and height information and asks them to press the 'Calculate' button. When the user presses the 'Calculate' button, the result of the BMI calculation will be displayed
+
+The second tab displayes the BMI Chart which shows the whole set of results with color cod
+
+The last one is a simple guide to the user on how to use the application.
