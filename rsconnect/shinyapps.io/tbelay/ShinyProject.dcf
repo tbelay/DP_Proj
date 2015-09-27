@@ -1,0 +1,8 @@
+name: ShinyProject
+account: tbelay
+server: shinyapps.io
+bundleId: 275504
+url: https://tbelay.shinyapps.io/ShinyProject
+when: 1443383978.2915
+asMultiple: FALSE
+asStatic: FALSE
